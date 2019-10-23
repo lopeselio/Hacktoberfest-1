@@ -30,3 +30,4 @@
 |Aastha Kasera       | [littleprodigy](https://github.com/littleprodigy)| Android, Azure, Python    |
 |                    |                                                 |                            |
 |Ana Carolina Chaves | [Ana Carolina](https://github.com/anacarolinacv)|Java and Python             |
+|Elio Jordan Lopes   |[lopeselio] (https://github.com/lopeselio)       | ReactJS, Python, Web       |
